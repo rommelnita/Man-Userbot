@@ -117,4 +117,3 @@ CMD_HELP.update(
     "
     }
 )
--1001594533044,  # Cari_Teman_Asiik
