@@ -21,7 +21,7 @@ from userbot.events import man_cmd, register
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else uname().node
 
 DEF_UNAPPROVED_MSG = (
-    f"Join sini dulu sayang @Cari_Teman_Asiik, kalo udah join nanti baru aku chat lagi,bantu ramein yah ka")
+    f"Join sini dulu sayang @gabutjoinsini, kalo udah join nanti baru aku chat lagi,bantu ramein yah ka")
 # =================================================================
 
 
